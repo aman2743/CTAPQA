@@ -1,0 +1,11 @@
+package loopsInJava;
+
+public class ForLoopInJavaCode {
+    static void main() {
+//        print number from 1 to 10
+
+        for (int i = 1; i <=10 ; i++) {
+            System.out.println("Number is "+i);
+        }
+    }
+}

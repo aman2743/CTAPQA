@@ -1,0 +1,48 @@
+1: Types of TypeCasting
+- Widening Type Casting (Implicit or Automatic)
+- Narrowing Type Casting (Explicit or Manual)
+Widening Type Casting:
+ byte -> short -> int -> long (will be done by compiler Automatically)
+Narrowing Type Casting:
+  long -> int -> short ->byte (will need to do by programmer)
+
+2: Operators in java (+,-,*,/,%)
+Types of operators in java
+- Arithmetic Operator
+- Assignment Operator
+- Unary Operator
+- Relational Operator
+- Logical Operator
+
+Statements in Java:
+Types of statements in java:
+ - Expression Statement
+ - Declaration Statement
+ - Control Statements
+
+ 1. Expression Statement
+    int temp ++;
+ 2. Declaration Statement
+    int x=10;//declaration statement
+    boolean b=true;
+ 3. Control Statement
+   - Selection Statement (if,else,if-else)
+   - Jump Statement / Switch Statement
+   - Iteration Statement (loops)
+     for : When the number of iterations is known in advance.
+         : Entry-controlled (checked before executing the body).
+       Minimum Iteration: 0
+
+     for -each : When sequentially traversing arrays or collections.
+               : Automatic (continues until the end of the collection).
+       Minimum Iteration: 0 (if collection is empty)
+
+     while
+         : When the number of iterations is unknown beforehand.
+         : Entry-controlled (checked before executing the body)
+          Minimum Iteration: 0
+
+     do-while
+          : When the code must execute at least once regardless of the condition.
+          : Exit-controlled (checked after executing the body).
+          Minimum Iteration: 1

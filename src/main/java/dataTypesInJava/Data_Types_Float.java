@@ -5,7 +5,7 @@ public class Data_Types_Float {
 //  float data type
 //  Size 4 Byte (32 bits)
     float f=23.45f;
-    float f1=23.561234589f;
+    float f1=23.5614589f;
     System.out.println(f);
     System.out.println(f1);
 

@@ -13,15 +13,6 @@ public class SwitchCaseScenari8 {
             case 3:
                 System.out.println("month is March");
                 break;
-            case 4:
-                System.out.println("month is April");
-                break;
-            case 5:
-                System.out.println("month is May");
-                break;
-            case 6:
-                System.out.println("month is June");
-                break;
             case 7:
                 System.out.println("month is July");
                 break;

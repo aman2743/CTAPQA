@@ -6,7 +6,7 @@ public class ATM2 {
         int enteredPin = 1111;
         int attempts = 0;
         int maxAttempts = 3;
-        while (attempts < maxAttempts)
+        while (enteredPin != correctPin && attempts < maxAttempts)
         {
             System.out.println("Incorrect PIN. Please try again.");
             attempts++;

@@ -14,7 +14,7 @@ public class ATM {
             if (attempts == 1) {
                 enteredPin = 2222;
             } else if (attempts == 2) {
-                enteredPin = 2323;
+                enteredPin = 2330;
 //                 enteredPin = 1234;
             }
         }

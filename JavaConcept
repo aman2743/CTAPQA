@@ -45,4 +45,4 @@ Types of statements in java:
      do-while
           : When the code must execute at least once regardless of the condition.
           : Exit-controlled (checked after executing the body).
-          Minimum Iteration: 1
+          Minimum I.teration: 1

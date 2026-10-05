@@ -3,7 +3,7 @@ package loopsInJava;
 public class ATM {
     public static void main(String[] args) {
         int correctPin = 1234;
-        int enteredPin = 1111;
+        int enteredPin = 1234;
         int attempts = 0;
         int maxAttempts = 3;
         while (enteredPin != correctPin && attempts < maxAttempts)
@@ -12,7 +12,7 @@ public class ATM {
             attempts++;
             // Simulating another PIN entered by the user
             if (attempts == 1) {
-                enteredPin = 2222;
+                enteredPin = 1234;
             } else if (attempts == 2) {
                 enteredPin = 2330;
 //                 enteredPin = 1234;

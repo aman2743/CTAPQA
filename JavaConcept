@@ -46,3 +46,10 @@ Types of statements in java:
           : When the code must execute at least once regardless of the condition.
           : Exit-controlled (checked after executing the body).
           Minimum I.teration: 1
+
+     Jump Statement:
+          : break
+          : continue
+          Assignment:
+          1. Check whether a number is prime or not
+          2. Print all the numbers between 2 to 100 to check whether the number is prime or not

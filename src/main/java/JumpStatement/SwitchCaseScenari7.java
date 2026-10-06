@@ -29,5 +29,6 @@ public class SwitchCaseScenari7 {
 //                System.out.println("Not meeting the criteria");
 
         }
+
     }
 }

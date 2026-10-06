@@ -25,8 +25,8 @@ public class SwitchCaseScenario {
             case 7:
                 System.out.println("month is July");
                 break;
-            default:
-                System.out.println("Not meeting the criteria");
+//            default:
+//                System.out.println("Not meeting the criteria");
 
         }
     }

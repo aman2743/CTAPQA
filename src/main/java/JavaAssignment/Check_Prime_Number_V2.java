@@ -1,3 +1,5 @@
+//   2. Print all the numbers between 2 to 100 to check whether the number is prime or not
+
 package JavaAssignment;
 
 import java.util.Scanner;

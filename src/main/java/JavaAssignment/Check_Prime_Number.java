@@ -1,3 +1,5 @@
+//1. Check whether a number is prime or not
+
 package JavaAssignment;
 
 import java.util.Scanner;

@@ -1,8 +1,8 @@
-package DoWhileLoop;
+package  scannermanish;
 
 import java.util.Scanner;
 
-public class Primecode {
+public class PrimecodeManish {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

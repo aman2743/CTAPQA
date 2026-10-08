@@ -45,7 +45,7 @@ Types of statements in java:
      do-while
           : When the code must execute at least once regardless of the condition.
           : Exit-controlled (checked after executing the body).
-          Minimum I.teration: 1
+          Minimum I.iteration: 1
 
      Jump Statement:
           : break
@@ -53,3 +53,15 @@ Types of statements in java:
           Assignment:
           1. Check whether a number is prime or not
           2. Print all the numbers between 2 to 100 to check whether the number is prime or not
+
+     Array in Java:
+
+     Types of Array in java:
+     - 1. Single Dimensional Array
+     - 2. Multi Dimensional Array
+
+    Syntax to define an array:
+       datatype[] arrayname
+       datatype arrayname[]
+       datatype []arrayname
+

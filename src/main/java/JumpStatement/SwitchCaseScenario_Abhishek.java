@@ -1,6 +1,6 @@
 package JumpStatement;
 
-public class SwitchCaseScenari7 {
+public class SwitchCaseScenario_Abhishek {
     static void main(String[] args) {
         int val=1;
         switch (val){
@@ -29,6 +29,5 @@ public class SwitchCaseScenari7 {
 //                System.out.println("Not meeting the criteria");
 
         }
-
     }
 }

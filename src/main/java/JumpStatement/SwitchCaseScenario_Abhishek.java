@@ -1,6 +1,6 @@
 package JumpStatement;
 
-public class SwitchCaseScenario {
+public class SwitchCaseScenario_Abhishek {
     static void main(String[] args) {
         int val=1;
         switch (val){

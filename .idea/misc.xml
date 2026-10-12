@@ -8,6 +8,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
     <option name="myDefaultNotNull" value="org.jspecify.annotations.NonNull" />
@@ -47,6 +48,9 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="26" project-jdk-type="JavaSDK">
+>>>>>>> 1bec190c84cfcd7d6582d5401d876cb481ab3185
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -11,9 +11,9 @@ public class PrimeNumber{
        }
 
        if (temp==0)
-        System.out.println("Number is Prime")
+        System.out.println("Number is Prime");
        else
-           System.out.println("Number is Not Prime")
+           System.out.println("Number is Not Prime");
 
 
     }

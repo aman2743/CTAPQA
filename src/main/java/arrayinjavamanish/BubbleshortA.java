@@ -1,6 +1,6 @@
 package arrayinjavamanish;
 
-public class Bubbleshort {
+public class BubbleshortA {
     public static void main(String[] args) {
 
         int[] a = {5, 3, 8, 1, 2};

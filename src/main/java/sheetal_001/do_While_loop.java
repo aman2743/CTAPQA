@@ -1,4 +1,4 @@
-package Sheetal_001;
+package sheetal_001;
 
     public class do_While_loop {
      public static void main(String[] args) {

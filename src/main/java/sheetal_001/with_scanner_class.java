@@ -1,4 +1,4 @@
-package Sheetal_001;
+package sheetal_001;
 
 import java.util.Scanner;
 

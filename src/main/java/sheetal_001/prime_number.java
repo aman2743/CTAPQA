@@ -1,4 +1,4 @@
-package Sheetal_001;
+package sheetal_001;
 
 public class prime_number {
     public static void main(String[] args) {

@@ -65,3 +65,9 @@ Types of statements in java:
        datatype arrayname[]
        datatype []arrayname
 
+    Shortcuts in IntellijIdea:
+     Ctrl + Alt + L - Allignment
+     Tab and Shift+tab
+
+     Comment a line ctrl+/
+

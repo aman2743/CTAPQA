@@ -3,7 +3,7 @@ package array_deepak;
 import java.util.Scanner;
 
 public class Arrar2 {
-    public static void main(String[] args) {
+    public static void main(String[] ags) {
         int[] numbers = new int[5];
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter array numbers : ");

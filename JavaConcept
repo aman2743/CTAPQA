@@ -71,3 +71,13 @@ Types of statements in java:
 
      Comment a line ctrl+/
 
+     Strings in Java:
+    Memory management in java
+     JVM divides memory in to two parts - Stack and heap
+     GarbageCollector
+
+    Define String in java:
+    1. Using String literal (SCP)
+    2. Using New keyword
+
+

@@ -4,7 +4,7 @@ public class Secondlargest
 {
         public static void main(String[] args) {
 
-            int[] a = {10, 5, 30, 8, 20};
+            int[] a = {10, 5, 20, 8, 20};
 
             int largest = Integer.MIN_VALUE;
             int secondLargest = Integer.MIN_VALUE;

@@ -5,7 +5,7 @@ public class StringLiteralCode1 {
     {
     String s1 = "Abhishek";
     String s2= "Abhishek";
-        if (Boolean.parseBoolean(s1=s2)) {
+        if (s1==s2) {
             System.out.println("equal");
         }else{
             System.out.println("not equal");

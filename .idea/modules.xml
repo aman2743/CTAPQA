@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTAPQA.iml" filepath="$PROJECT_DIR$/.idea/CTAPQA.iml" />
+>>>>>>> f67e3f7676372d022bb1523caf1fdef4c52c9808
       <module fileurl="file://$PROJECT_DIR$/JavaCode.iml" filepath="$PROJECT_DIR$/JavaCode.iml" />
     </modules>
   </component>

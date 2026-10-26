@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="largest_2nd_smallest" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="sheetal_001.largest_2nd_smallest" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="sheetal_001.*" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

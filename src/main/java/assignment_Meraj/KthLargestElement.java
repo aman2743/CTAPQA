@@ -13,4 +13,4 @@ public class KthLargestElement {
 
         System.out.println("K-th largest element: " + kthLargest);
     }
-}us
+}

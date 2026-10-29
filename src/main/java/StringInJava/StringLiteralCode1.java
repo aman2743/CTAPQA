@@ -11,6 +11,5 @@ public class StringLiteralCode1 {
             System.out.println("not equal");
         }
 
-
     }
 }

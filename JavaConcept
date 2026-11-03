@@ -65,3 +65,19 @@ Types of statements in java:
        datatype arrayname[]
        datatype []arrayname
 
+    Shortcuts in IntellijIdea:
+     Ctrl + Alt + L - Allignment
+     Tab and Shift+tab
+
+     Comment a line ctrl+/
+
+     Strings in Java:
+    Memory management in java
+     JVM divides memory in to two parts - Stack and heap
+     GarbageCollector
+
+    Define String in java:
+    1. Using String literal (SCP)
+    2. Using New keyword
+
+

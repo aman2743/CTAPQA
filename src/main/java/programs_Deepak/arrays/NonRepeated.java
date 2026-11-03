@@ -1,4 +1,4 @@
-package Programs_Deepak;
+package programs_Deepak.arrays;
 
 public class NonRepeated {
     public static void main(String[] args) {

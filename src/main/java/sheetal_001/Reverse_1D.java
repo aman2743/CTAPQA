@@ -6,7 +6,7 @@ public class Reverse_1D {
         int length = arr.length;
 
         for(int i = length-1; i>=0; i--){
-            System.out.println(arr[i]);
+            System.out.print( arr[i] + " ");
         }
 
     }

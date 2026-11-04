@@ -3,7 +3,7 @@ package StringInJava;
 public class ToCharArrayMethodReverse {
 
     static void main() {
-        String str = "CHROMA";
+        String str = "CHROMA is a brand of TATA product";
         char c[] = str.toCharArray();
 
         // Reverse the character array

@@ -1,7 +1,7 @@
 package methodInJava;
 
 public class TestClass {
-    public static void ma`in(String[] args){
+    public static void main(String[] args){
         System.out.println("Hello");
     }
 }

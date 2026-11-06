@@ -9,7 +9,7 @@ public class Students {
     }
 
     static void main() {
-        Students s1=new Students();
+        Students s1=new Students();//This is an instance of the class Students and name is s1
         Students s2=new Students();
         s1.Name="Raman";
         s1.Class="12th Standard";

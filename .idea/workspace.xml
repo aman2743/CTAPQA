@@ -7,6 +7,8 @@
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClassAndObjects/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassAndObjects/Students.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +41,12 @@
     &quot;assignee&quot;: &quot;DP-1311&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/aman2743/CTAPQA.git",
-    "accountId": "515cb396-3974-4bad-8fd5-6daedc6f0ce8"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aman2743/CTAPQA.git&quot;,
+    &quot;accountId&quot;: &quot;515cb396-3974-4bad-8fd5-6daedc6f0ce8&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -69,6 +71,8 @@
     "Application.Arr2.executor": "Run",
     "Application.ArraySort.executor": "Run",
     "Application.Arrays.executor": "Run",
+    "Application.ConstructorCodeOne.executor": "Run",
+    "Application.ConstructorCodeTwo.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.DuplicateNumber.executor": "Run",
     "Application.IntersactioArrays.executor": "Run",
@@ -107,6 +111,7 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
@@ -116,20 +121,36 @@
       <recent name="$PROJECT_DIR$/target" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="constructorInJava" />
       <recent name="ClassAndObjects" />
       <recent name="Programs_Deepak" />
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Students">
-    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ConstructorCodeTwo">
+    <configuration name="ConstructorCodeOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.KthLargest" />
+      <option name="MAIN_CLASS_NAME" value="constructorInJava.ConstructorCodeOne" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs_Deepak.arrays.*" />
+          <option name="PATTERN" value="constructorInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorCodeTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="constructorInJava.ConstructorCodeTwo" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructorInJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,21 +166,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ClassAndObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.MissingNumber" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs_Deepak.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,22 +242,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.second_smallest" />
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.second_smallest" />
+      <item itemvalue="Application.ConstructorCodeOne" />
+      <item itemvalue="Application.ConstructorCodeTwo" />
       <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.Students" />
       <item itemvalue="Application.Practice" />
-      <item itemvalue="Application.MissingNumber" />
-      <item itemvalue="Application.KthLargest" />
+      <item itemvalue="Application.Students" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorCodeTwo" />
+        <item itemvalue="Application.ConstructorCodeOne" />
         <item itemvalue="Application.Students" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.KthLargest" />
       </list>
     </recent_temporary>
   </component>

@@ -3,15 +3,26 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Programs_Deepak/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/KthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/KthLargest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/ZerosToTheEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/ZerosToTheEnd.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Admin/IdeaProjects/CTAPQA" value="3LlgsH9w2PNMlxYisZsdqG5V3ip" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +70,21 @@
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
   </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,6 +95,7 @@
     "Application.Arr2.executor": "Run",
     "Application.ArraySort.executor": "Run",
     "Application.Arrays.executor": "Run",
+    "Application.ClassObjectcode.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.DuplicateNumber.executor": "Run",
     "Application.IntersactioArrays.executor": "Run",
@@ -89,6 +116,8 @@
     "Application.ZerosToTheEnd (3).executor": "Run",
     "Application.ZerosToTheEnd (4).executor": "Run",
     "Application.ZerosToTheEnd.executor": "Run",
+    "Application.stringcode.executor": "Run",
+    "Application.subtractno.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,18 +126,21 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "ManishKumar",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/deepakpanwar/Desktop/IntelliJ/CTAPQA/src/main/java",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.customization.CustomizationConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -122,45 +154,15 @@
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Strings">
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ClassObjectcode">
+    <configuration name="ClassObjectcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.ArraySort" />
+      <option name="MAIN_CLASS_NAME" value="classobjectmanish.ClassObjectcode" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs_Deepak.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.KthLargest" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs_Deepak.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.MajorityElement" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs_Deepak.arrays.*" />
+          <option name="PATTERN" value="classobjectmanish.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,23 +238,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stringcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="arrayinjavamanish.stringcode" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayinjavamanish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subtractno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="arrayinjavamanish.subtractno" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayinjavamanish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.second_smallest" />
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.ClassObjectcode" />
+      <item itemvalue="Application.stringcode" />
+      <item itemvalue="Application.subtractno" />
       <item itemvalue="Application.Practice" />
       <item itemvalue="Application.MissingNumber" />
-      <item itemvalue="Application.ArraySort" />
-      <item itemvalue="Application.KthLargest" />
-      <item itemvalue="Application.MajorityElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassObjectcode" />
+        <item itemvalue="Application.subtractno" />
+        <item itemvalue="Application.stringcode" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.KthLargest" />
-        <item itemvalue="Application.ArraySort" />
-        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>

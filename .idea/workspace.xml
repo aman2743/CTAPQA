@@ -7,13 +7,17 @@
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClassAndObjects/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassAndObjects/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constructorInJava/ConstructorCodeTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructorInJava/ConstructorCodeTwo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Aman Kumar/IdeaProjects/JavaCode" value="3LlgYtFt7QRsS4oruBAWOHzRVw0" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,18 +65,36 @@
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
   </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdditionOfTwoNumbers.executor": "Run",
     "Application.Arr1.executor": "Run",
     "Application.Arr2.executor": "Run",
     "Application.ArraySort.executor": "Run",
     "Application.Arrays.executor": "Run",
     "Application.ConstructorCodeOne.executor": "Run",
-    "Application.ConstructorCodeTwo.executor": "Run",
+    "Application.ConstructorCodeTwo.executor": "Debug",
     "Application.DuplicateElements.executor": "Run",
     "Application.DuplicateNumber.executor": "Run",
     "Application.IntersactioArrays.executor": "Run",
@@ -90,11 +112,13 @@
     "Application.Strings.executor": "Run",
     "Application.Students.executor": "Run",
     "Application.SumEqualsToTarget.executor": "Run",
+    "Application.TypesOfConstructor.executor": "Run",
     "Application.ZerosToTheEnd (1).executor": "Run",
     "Application.ZerosToTheEnd (2).executor": "Run",
     "Application.ZerosToTheEnd (3).executor": "Run",
     "Application.ZerosToTheEnd (4).executor": "Run",
     "Application.ZerosToTheEnd.executor": "Run",
+    "Application.constructorInJava.Students.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -102,6 +126,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/deepakpanwar/Desktop/IntelliJ/CTAPQA/src/main/java",
@@ -112,7 +137,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -127,15 +152,15 @@
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructorCodeTwo">
-    <configuration name="ConstructorCodeOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.constructorInJava.Students">
+    <configuration name="AdditionOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="constructorInJava.ConstructorCodeOne" />
+      <option name="MAIN_CLASS_NAME" value="ClassAndObjects.AdditionOfTwoNumbers" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructorInJava.*" />
+          <option name="PATTERN" value="ClassAndObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,36 +176,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="constructorInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ClassAndObjects.MainClass" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClassAndObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.Practice" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs_Deepak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,6 +228,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypesOfConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="constructorInJava.TypesOfConstructor" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructorInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -241,23 +251,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="constructorInJava.Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="constructorInJava.Students" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructorInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.second_smallest" />
-      <item itemvalue="Application.ConstructorCodeOne" />
+      <item itemvalue="Application.constructorInJava.Students" />
+      <item itemvalue="Application.TypesOfConstructor" />
+      <item itemvalue="Application.AdditionOfTwoNumbers" />
       <item itemvalue="Application.ConstructorCodeTwo" />
-      <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.Practice" />
       <item itemvalue="Application.Students" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructorCodeTwo" />
-        <item itemvalue="Application.ConstructorCodeOne" />
+        <item itemvalue="Application.constructorInJava.Students" />
+        <item itemvalue="Application.TypesOfConstructor" />
+        <item itemvalue="Application.AdditionOfTwoNumbers" />
         <item itemvalue="Application.Students" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.ConstructorCodeTwo" />
       </list>
     </recent_temporary>
   </component>

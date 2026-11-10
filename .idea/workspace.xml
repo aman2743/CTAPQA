@@ -7,8 +7,6 @@
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClassAndObjects/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassAndObjects/Students.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,17 +100,24 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "ManishKumar",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/deepakpanwar/Desktop/IntelliJ/CTAPQA/src/main/java",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">

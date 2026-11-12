@@ -109,6 +109,7 @@
     "Application.NonRepeated.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.Programmer.executor": "Run",
     "Application.ReversedArray.executor": "Run",
     "Application.SecondHighest.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -154,22 +155,7 @@
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainMethodOverload">
-    <configuration name="AdditionOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ClassAndObjects.AdditionOfTwoNumbers" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClassAndObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Programmer">
     <configuration name="MainMethodOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -193,6 +179,21 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oopsInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="inheritanceInJava.Programmer" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritanceInJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,19 +273,19 @@
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.second_smallest" />
+      <item itemvalue="Application.Programmer" />
       <item itemvalue="Application.MainMethodOverload" />
       <item itemvalue="Application.MethodOverloading" />
-      <item itemvalue="Application.AdditionOfTwoNumbers" />
       <item itemvalue="Application.TypesOfConstructor" />
       <item itemvalue="Application.constructorInJava.Students" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programmer" />
         <item itemvalue="Application.MainMethodOverload" />
         <item itemvalue="Application.MethodOverloading" />
         <item itemvalue="Application.constructorInJava.Students" />
         <item itemvalue="Application.TypesOfConstructor" />
-        <item itemvalue="Application.AdditionOfTwoNumbers" />
       </list>
     </recent_temporary>
   </component>

@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodOverride/ClassAAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodOverride/ClassBBB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceInJava/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritanceInJava/Programmer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +95,8 @@
     "Application.Arr2.executor": "Run",
     "Application.ArraySort.executor": "Run",
     "Application.Arrays.executor": "Run",
+    "Application.ClassB.executor": "Run",
+    "Application.ClassC.executor": "Run",
     "Application.ConstructorCodeOne.executor": "Run",
     "Application.ConstructorCodeTwo.executor": "Debug",
     "Application.DuplicateElements.executor": "Run",
@@ -132,7 +136,7 @@
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/deepakpanwar/Desktop/IntelliJ/CTAPQA/src/main/java",
+    "last_opened_file_path": "C:/Users/Aman Kumar/IdeaProjects/JavaCode/src/main/java/methodOverride",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -145,6 +149,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aman Kumar\IdeaProjects\JavaCode\src\main\java\methodOverride" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/target" />
     </key>
@@ -155,7 +160,37 @@
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Programmer">
+  <component name="RunManager" selected="Application.ClassB">
+    <configuration name="ClassB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="inheritanceHierarchial.ClassB" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritanceHierarchial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="inheritanceHierarchial.ClassC" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritanceHierarchial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainMethodOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -231,21 +266,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesOfConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="constructorInJava.TypesOfConstructor" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="constructorInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -254,38 +274,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructorInJava.Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="constructorInJava.Students" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="constructorInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.second_smallest" />
+      <item itemvalue="Application.ClassB" />
+      <item itemvalue="Application.ClassC" />
       <item itemvalue="Application.Programmer" />
       <item itemvalue="Application.MainMethodOverload" />
       <item itemvalue="Application.MethodOverloading" />
-      <item itemvalue="Application.TypesOfConstructor" />
-      <item itemvalue="Application.constructorInJava.Students" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassB" />
+        <item itemvalue="Application.ClassC" />
         <item itemvalue="Application.Programmer" />
         <item itemvalue="Application.MainMethodOverload" />
         <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.constructorInJava.Students" />
-        <item itemvalue="Application.TypesOfConstructor" />
       </list>
     </recent_temporary>
   </component>

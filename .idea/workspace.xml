@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programs_Deepak/strings/ReverseStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Programs_Deepak/strings/Strings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/DuplicateElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Programs_Deepak/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/KthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/KthLargest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/ZerosToTheEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Programs_Deepak/arrays/ZerosToTheEnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Programs_Deepak/strings/Strings.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

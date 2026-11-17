@@ -7,6 +7,7 @@
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +68,13 @@
   <component name="ProjectSessionTemplates">
     <option name="panelTemplate">
       <template>
-        <option name="ensembleEnabled" value="false" />
+        <option name="ensembleEnabled" value="true" />
+        <option name="ensembleTierId" value="balance" />
         <option name="modeId" value="Agent" />
         <option name="model">
           <model>
             <option name="modelType" value="builtin_id" />
-            <option name="modelValue" value="auto" />
+            <option name="modelValue" value="ensemble" />
           </model>
         </option>
         <option name="targetType" value="BACKGROUND" />
@@ -92,10 +94,13 @@
     "Application.Arr2.executor": "Run",
     "Application.ArraySort.executor": "Run",
     "Application.Arrays.executor": "Run",
+    "Application.Bike.executor": "Run",
+    "Application.Car.executor": "Run",
     "Application.ClassB.executor": "Run",
     "Application.ClassC.executor": "Run",
     "Application.ConstructorCodeOne.executor": "Run",
     "Application.ConstructorCodeTwo.executor": "Debug",
+    "Application.Dog.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.DuplicateNumber.executor": "Run",
     "Application.IntersactioArrays.executor": "Run",
@@ -116,6 +121,7 @@
     "Application.Strings.executor": "Run",
     "Application.Students.executor": "Run",
     "Application.SumEqualsToTarget.executor": "Run",
+    "Application.Tiger.executor": "Run",
     "Application.TypesOfConstructor.executor": "Run",
     "Application.ZerosToTheEnd (1).executor": "Run",
     "Application.ZerosToTheEnd (2).executor": "Run",
@@ -130,10 +136,8 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "ManishKumar",
-    "junie.onboarding.icon.badge.shown": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Aman Kumar/IdeaProjects/JavaCode/src/main/java/methodOverride",
     "node.js.detected.package.jshint": "true",
@@ -143,8 +147,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -160,7 +163,37 @@
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassB">
+  <component name="RunManager" selected="Application.Bike">
+    <configuration name="Bike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="abstractClassInJava2.Bike" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractClassInJava2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="abstractClassInJava2.Car" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractClassInJava2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -176,59 +209,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="inheritanceHierarchial.ClassC" />
+      <option name="MAIN_CLASS_NAME" value="abstractClassInJava.Dog" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritanceHierarchial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainMethodOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oopsInJava.MainMethodOverload" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopsInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oopsInJava.MethodOverloading" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopsInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Programmer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="inheritanceInJava.Programmer" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritanceInJava.*" />
+          <option name="PATTERN" value="abstractClassInJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,6 +254,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tiger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="abstractClassInJava.Tiger" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractClassInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -278,19 +281,19 @@
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.second_smallest" />
+      <item itemvalue="Application.Bike" />
+      <item itemvalue="Application.Car" />
+      <item itemvalue="Application.Dog" />
+      <item itemvalue="Application.Tiger" />
       <item itemvalue="Application.ClassB" />
-      <item itemvalue="Application.ClassC" />
-      <item itemvalue="Application.Programmer" />
-      <item itemvalue="Application.MainMethodOverload" />
-      <item itemvalue="Application.MethodOverloading" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bike" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Tiger" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.ClassB" />
-        <item itemvalue="Application.ClassC" />
-        <item itemvalue="Application.Programmer" />
-        <item itemvalue="Application.MainMethodOverload" />
-        <item itemvalue="Application.MethodOverloading" />
       </list>
     </recent_temporary>
   </component>

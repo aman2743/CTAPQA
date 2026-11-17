@@ -7,7 +7,6 @@
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,11 +136,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ManishKumar",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Aman Kumar/IdeaProjects/JavaCode/src/main/java/methodOverride",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",

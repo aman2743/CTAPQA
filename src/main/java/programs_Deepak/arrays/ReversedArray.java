@@ -1,4 +1,4 @@
-package programs_Deepak.arrays;
+package Programs_Deepak.arrays;
 
 public class ReversedArray {
     static void main(String[] args) {

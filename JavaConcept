@@ -82,4 +82,31 @@ Types of statements in java:
 
     Java is a typed language
 
+   OOPS - Object Oriented Programming
+   1. Class
+   2. Object
+   3. Method
+   4. Pillars of OOPS
+      Code Reusability:
+       i. Inheritance
+       ii. Polymorphism
+      Security:
+       i. Abstraction
+       ii. Encapsulation
 
+Constructor in Java:
+Polymorphism:
+Poly - many
+Morphs - Forms
+
+Inheritance:
+Is-A relationship between parent and child class
+
+Abstraction - can be achieved by using abstract class and interface
+
+Abstract Class:
+1. A class declared with the abstract keyword is known as an abstract class.
+2. It can have abstract methods (methods without a body) as well as concrete methods (methods with a
+body).
+3. An abstract class cannot be instantiated directly, meaning you cannot create an object of an abstract
+class. Instead,it is meant to be subclassed, and its abstract methods must be implemented by the subclasses.

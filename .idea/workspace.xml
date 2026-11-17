@@ -6,17 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CopilotPersistence">
-    <persistenceIdMap>
-      <entry key="_/Users/deepakpanwar/Desktop/IntelliJ/CTAPQA" value="3LlgWcJKcIoNE2dKZE33VBYgrkC" />
-    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,102 +60,74 @@
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
   </component>
-  <component name="ProjectSessionTemplates">
-    <option name="panelTemplate">
-      <template>
-        <option name="ensembleEnabled" value="true" />
-        <option name="modeId" value="Agent" />
-        <option name="model">
-          <model>
-            <option name="modelType" value="builtin_id" />
-            <option name="modelValue" value="ensemble" />
-          </model>
-        </option>
-        <option name="targetType" value="BACKGROUND" />
-        <option name="worktreeMode" value="WORKSPACE" />
-      </template>
-    </option>
-    <option name="version" value="1" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arr1.executor": "Run",
-    "Application.Arr2.executor": "Run",
-    "Application.ArraySort.executor": "Run",
-    "Application.Arrays.executor": "Run",
-    "Application.CharMethod.executor": "Run",
-    "Application.CharMethodReverse.executor": "Run",
-    "Application.DuplicateElements.executor": "Run",
-    "Application.DuplicateNumber.executor": "Run",
-    "Application.IntersactioArrays.executor": "Run",
-    "Application.KthLargest.executor": "Run",
-    "Application.MajorityElement.executor": "Run",
-    "Application.MergedArrays.executor": "Run",
-    "Application.MergedTwoArrays.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.NonRepeated.executor": "Run",
-    "Application.Practice.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.ReversedArray.executor": "Run",
-    "Application.SecondHighest.executor": "Run",
-    "Application.SplitStringMethod.executor": "Run",
-    "Application.StringAssignment.executor": "Run",
-    "Application.StringLiteral.executor": "Run",
-    "Application.Strings.executor": "Run",
-    "Application.StringsProblems.executor": "Run",
-    "Application.SubsString.executor": "Run",
-    "Application.SumEqualsToTarget.executor": "Run",
-    "Application.ToCharArrayMethod.executor": "Run",
-    "Application.ToCharArrayReverseMethod.executor": "Run",
-    "Application.ZerosToTheEnd (1).executor": "Run",
-    "Application.ZerosToTheEnd (2).executor": "Run",
-    "Application.ZerosToTheEnd (3).executor": "Run",
-    "Application.ZerosToTheEnd (4).executor": "Run",
-    "Application.ZerosToTheEnd.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "DeepakPanwar",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/deepakpanwar/Desktop/IntelliJ/CTAPQA/src/main/java",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arr1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arr2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersactioArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergedTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonRepeated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondHighest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumEqualsToTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZerosToTheEnd (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZerosToTheEnd (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZerosToTheEnd (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZerosToTheEnd (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZerosToTheEnd.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#25 on DeepakPanwar&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/deepakpanwar/Desktop/IntelliJ/CTAPQA/src/main/java&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/target" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="programs_Deepak.strings" />
       <recent name="Programs_Deepak" />
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ToCharArrayReverseMethod">
-    <configuration name="CharMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Strings">
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.strings.CharMethod" />
+      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.ArraySort" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs_Deepak.strings.*" />
+          <option name="PATTERN" value="programs_Deepak.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,14 +135,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStrings" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.strings.ReverseStrings" />
+      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.KthLargest" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs_Deepak.strings.*" />
+          <option name="PATTERN" value="programs_Deepak.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.MajorityElement" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs_Deepak.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="programs_Deepak.arrays.MissingNumber" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs_Deepak.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="programs_Deepak.Practice" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs_Deepak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,55 +210,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Strings" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.strings.SplitStringMethod" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs_Deepak.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.strings.SubsString" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs_Deepak.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToCharArrayMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.strings.ToCharArrayMethod" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programs_Deepak.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToCharArrayReverseMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="programs_Deepak.strings.ToCharArrayReverseMethod" />
+      <option name="MAIN_CLASS_NAME" value="programs_Deepak.strings.Strings" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
@@ -268,20 +236,20 @@
     <list>
       <item itemvalue="Application.second_smallest" />
       <item itemvalue="Application.ReversedArray" />
-      <item itemvalue="Application.ReverseStrings" />
-      <item itemvalue="Application.CharMethod" />
-      <item itemvalue="Application.SplitStringMethod" />
-      <item itemvalue="Application.SubsString" />
-      <item itemvalue="Application.ToCharArrayMethod" />
-      <item itemvalue="Application.ToCharArrayReverseMethod" />
+      <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.MissingNumber" />
+      <item itemvalue="Application.ArraySort" />
+      <item itemvalue="Application.KthLargest" />
+      <item itemvalue="Application.MajorityElement" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ToCharArrayReverseMethod" />
-        <item itemvalue="Application.ToCharArrayMethod" />
-        <item itemvalue="Application.CharMethod" />
-        <item itemvalue="Application.SplitStringMethod" />
-        <item itemvalue="Application.SubsString" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.KthLargest" />
+        <item itemvalue="Application.ArraySort" />
+        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>

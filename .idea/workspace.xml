@@ -8,6 +8,9 @@
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/abstractClassInJava2/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractClassInJava2/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/abstractClassInJava2/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractClassInJava2/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +166,7 @@
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bike">
+  <component name="RunManager" selected="Application.Car">
     <configuration name="Bike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -289,8 +292,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bike" />
         <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Bike" />
         <item itemvalue="Application.Tiger" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.ClassB" />
@@ -362,6 +365,36 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
+          <line>4</line>
+          <properties class="abstractClassInJava2.Car" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

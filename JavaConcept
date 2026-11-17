@@ -109,4 +109,11 @@ Abstract Class:
 2. It can have abstract methods (methods without a body) as well as concrete methods (methods with a
 body).
 3. An abstract class cannot be instantiated directly, meaning you cannot create an object of an abstract
-class. Instead,it is meant to be subclassed, and its abstract methods must be implemented by the subclasses.
+class. Instead,it is meant to be subclassed, and its abstract methods must be implemented by the
+subclasses.
+
+Interface:
+1. An interface is a reference type in Java, similar to a class, that can contain only abstract
+methods (methods without a body) and constants (static final variables).
+2. Interfaces are implicitly public and all methods are implicitly public abstract.
+3. A class can implement multiple interfaces using the implements keyword.

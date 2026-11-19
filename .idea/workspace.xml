@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -68,14 +66,17 @@
   <component name="ProjectSessionTemplates">
     <option name="panelTemplate">
       <template>
+        <option name="ensembleEnabled" value="true" />
+        <option name="ensembleTierId" value="balance" />
         <option name="modeId" value="Agent" />
         <option name="model">
           <model>
             <option name="modelType" value="builtin_id" />
-            <option name="modelValue" value="auto" />
+            <option name="modelValue" value="ensemble" />
           </model>
         </option>
-        <option name="targetType" value="LOCAL" />
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
       </template>
     </option>
     <option name="version" value="1" />
@@ -87,7 +88,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdditionOfTwoNumbers.executor": "Run",
-    "Application.AllAccessModifiersExample.executor": "Run",
+    "Application.Animal_inherite_single (1).executor": "Run",
+    "Application.Animal_inherite_single (2).executor": "Run",
+    "Application.Animal_inherite_single.executor": "Run",
     "Application.Arr1.executor": "Run",
     "Application.Arr2.executor": "Run",
     "Application.ArraySort.executor": "Run",
@@ -101,9 +104,12 @@
     "Application.Dog.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.DuplicateNumber.executor": "Run",
-    "Application.EncapsulationExample.executor": "Debug",
+    "Application.EncapsulationE.executor": "Run",
     "Application.IntersactioArrays.executor": "Run",
     "Application.KthLargest.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MainClass.executor": "Run",
     "Application.MainMethodOverload.executor": "Debug",
     "Application.MajorityElement.executor": "Run",
@@ -114,11 +120,14 @@
     "Application.NonRepeated.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
-    "Application.PrivateAccessModifierExample.executor": "Run",
     "Application.Programmer.executor": "Run",
     "Application.ReversedArray.executor": "Run",
     "Application.SecondHighest.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.Student_cons.executor": "Run",
+    "Application.Student_default.executor": "Run",
+    "Application.Student_no_argument.executor": "Run",
+    "Application.Student_parameter.executor": "Run",
     "Application.Students.executor": "Run",
     "Application.SumEqualsToTarget.executor": "Run",
     "Application.Tiger.executor": "Run",
@@ -128,7 +137,21 @@
     "Application.ZerosToTheEnd (3).executor": "Run",
     "Application.ZerosToTheEnd (4).executor": "Run",
     "Application.ZerosToTheEnd.executor": "Run",
+    "Application.calculator_poly_overloading.executor": "Run",
+    "Application.child.executor": "Run",
     "Application.constructorInJava.Students.executor": "Debug",
+    "Application.test (1).executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.test1 (1).executor": "Run",
+    "Application.test1 (2).executor": "Run",
+    "Application.test1.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.test4.executor": "Run",
+    "Application.test5.executor": "Run",
+    "Application.test6.executor": "Run",
+    "Application.test7 (1).executor": "Run",
+    "Application.test7.executor": "Run",
+    "Application.test8.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -136,18 +159,25 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ManishKumar",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Aman Kumar/IdeaProjects/JavaCode/src/main/java/methodOverride",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -157,21 +187,22 @@
       <recent name="$PROJECT_DIR$/target" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oopmanish" />
       <recent name="constructorInJava" />
       <recent name="ClassAndObjects" />
       <recent name="Programs_Deepak" />
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AllAccessModifiersExample">
-    <configuration name="AllAccessModifiersExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.EncapsulationE">
+    <configuration name="EncapsulationE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="accessModifierInJava.AllAccessModifiersExample" />
+      <option name="MAIN_CLASS_NAME" value="oopmanish.EncapsulationE" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="accessModifierInJava.*" />
+          <option name="PATTERN" value="oopmanish.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,44 +210,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="abstractClassInJava2.Bike" />
+      <option name="MAIN_CLASS_NAME" value="oopmanish.Main" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstractClassInJava2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="abstractClassInJava2.Car" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abstractClassInJava2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="encapsulationInJava.EncapsulationExample" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="encapsulationInJava.*" />
+          <option name="PATTERN" value="oopmanish.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,21 +233,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="programs_Deepak.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SamePackageClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="accessModifierInJava.SamePackageClass" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="accessModifierInJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,23 +263,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oopmanish.test7" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopmanish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oopmanish.test7" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopmanish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oopmanish.test8" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopmanish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.second_smallest" />
-      <item itemvalue="Application.AllAccessModifiersExample" />
-      <item itemvalue="Application.EncapsulationExample" />
-      <item itemvalue="Application.SamePackageClass" />
-      <item itemvalue="Application.Bike" />
-      <item itemvalue="Application.Car" />
+      <item itemvalue="Application.EncapsulationE" />
+      <item itemvalue="Application.test7" />
+      <item itemvalue="Application.test7 (1)" />
+      <item itemvalue="Application.test8" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AllAccessModifiersExample" />
-        <item itemvalue="Application.SamePackageClass" />
-        <item itemvalue="Application.EncapsulationExample" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.Bike" />
+        <item itemvalue="Application.EncapsulationE" />
+        <item itemvalue="Application.test8" />
+        <item itemvalue="Application.test7 (1)" />
+        <item itemvalue="Application.test7" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -362,36 +393,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/abstractClassInJava2/Car.java</url>
-          <line>4</line>
-          <properties class="abstractClassInJava2.Car" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

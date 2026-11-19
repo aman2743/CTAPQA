@@ -13,7 +13,7 @@ public class Animal_poly_overriding {
         }
     }
 
-    class Main {
+    class test6 {
 
         public static void main(String[] args) {
 

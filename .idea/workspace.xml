@@ -7,6 +7,9 @@
     <list default="true" id="05f36dbf-929b-45e8-bb61-f58103befd62" name="Changes" comment="Commit code on 29th Sept">
       <changelist_data name="Aman Kumar" email="kush@274306" automatic="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaConcept" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcept" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/accessModifierInJava/AllAccessModifiersExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/accessModifierInJava/AllAccessModifiersExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/accessModifierInJava/PrivateAccessModifierExample.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,7 @@
   <component name="ProjectSessionTemplates">
     <option name="panelTemplate">
       <template>
-        <option name="modeId" value="Agent" />
+        <option name="modeId" value="Ask" />
         <option name="model">
           <model>
             <option name="modelType" value="builtin_id" />
@@ -102,6 +105,8 @@
     "Application.DuplicateElements.executor": "Run",
     "Application.DuplicateNumber.executor": "Run",
     "Application.EncapsulationExample.executor": "Debug",
+    "Application.ExceptionCode.executor": "Run",
+    "Application.ExceptionHandle.executor": "Run",
     "Application.IntersactioArrays.executor": "Run",
     "Application.KthLargest.executor": "Run",
     "Application.MainClass.executor": "Run",
@@ -121,6 +126,9 @@
     "Application.Strings.executor": "Run",
     "Application.Students.executor": "Run",
     "Application.SumEqualsToTarget.executor": "Run",
+    "Application.Test.executor": "Debug",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
     "Application.Tiger.executor": "Run",
     "Application.TypesOfConstructor.executor": "Run",
     "Application.ZerosToTheEnd (1).executor": "Run",
@@ -157,21 +165,22 @@
       <recent name="$PROJECT_DIR$/target" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exceptionsInJavaCode" />
       <recent name="constructorInJava" />
       <recent name="ClassAndObjects" />
       <recent name="Programs_Deepak" />
       <recent name="JumpStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AllAccessModifiersExample">
-    <configuration name="AllAccessModifiersExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="ExceptionCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="accessModifierInJava.AllAccessModifiersExample" />
+      <option name="MAIN_CLASS_NAME" value="exceptionsInJavaCode.ExceptionCode" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="accessModifierInJava.*" />
+          <option name="PATTERN" value="exceptionsInJavaCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,44 +188,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="abstractClassInJava2.Bike" />
+      <option name="MAIN_CLASS_NAME" value="exceptionsInJavaCode.ExceptionHandle" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstractClassInJava2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="abstractClassInJava2.Car" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abstractClassInJava2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="encapsulationInJava.EncapsulationExample" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="encapsulationInJava.*" />
+          <option name="PATTERN" value="exceptionsInJavaCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,21 +218,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SamePackageClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="26" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="accessModifierInJava.SamePackageClass" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="accessModifierInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Strings" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="26" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -262,6 +226,51 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="programs_Deepak.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exceptionsInJavaCode.Test" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionsInJavaCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exceptionsInJavaCode.Test1" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionsInJavaCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exceptionsInJavaCode.Test2" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionsInJavaCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +290,19 @@
       <item itemvalue="Application.ReversedArray" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.second_smallest" />
-      <item itemvalue="Application.AllAccessModifiersExample" />
-      <item itemvalue="Application.EncapsulationExample" />
-      <item itemvalue="Application.SamePackageClass" />
-      <item itemvalue="Application.Bike" />
-      <item itemvalue="Application.Car" />
+      <item itemvalue="Application.ExceptionCode" />
+      <item itemvalue="Application.ExceptionHandle" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AllAccessModifiersExample" />
-        <item itemvalue="Application.SamePackageClass" />
-        <item itemvalue="Application.EncapsulationExample" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.Bike" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.ExceptionHandle" />
+        <item itemvalue="Application.ExceptionCode" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +399,10 @@
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="17" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

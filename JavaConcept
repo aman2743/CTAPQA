@@ -117,3 +117,16 @@ Interface:
 methods (methods without a body) and constants (static final variables).
 2. Interfaces are implicitly public and all methods are implicitly public abstract.
 3. A class can implement multiple interfaces using the implements keyword.
+
+Exceptions in Java:
+1. An exception is an event that occurs during the execution of a program that disrupts the normal flow of the code.
+2. Java provides a robust exception handling mechanism to handle runtime errors and maintain the normal flow of the application.
+3. Exceptions can be categorized into two main types:
+   - Checked Exceptions: These are exceptions that are checked at compile-time. The programmer is required to handle these exceptions using try-catch blocks or by declaring them in the method signature using the throws  keyword. Examples include IOException, SQLException, etc.
+   - Unchecked Exceptions: These are exceptions that occur at runtime and are not checked at compile-time. They are usually caused by programming errors, such as null pointer exceptions or array index out of
+
+This is the responsibilty of the method to create exception object with help of JVM and throw it to the calling method. The calling method is responsible to handle the exception object.
+In Exception object we are having three information:
+1. Name of the exception
+2. Description of the exception
+3. Stack trace of the exception
